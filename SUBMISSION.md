@@ -2,6 +2,7 @@ What you did -
   -i setup the envaroment for this challange
      when i setup this my terminal is not knowing  'uv' so i install in addition to this documentation i get 
     by this command  "irm https://astral.sh/uv/install.ps1 | iex"
+  - I used google gemini 
 
 What worked - 
 -Environment Setup & Configuration
