@@ -34,4 +34,6 @@ Generating with veo...
    Error: module 'google.genai.types' has no attribute 'GenerateVideoConfig'
 
 
-Insights gained - how do rules change the behaviour of the AI agent to align with your intent, thought pattern, and expectation.
+Insights gained - 
+Rules operationalize what you want the AI to do into how it decides, prioritizes, and responds. Without rules, intent stays ambiguous.
+They define boundaries for acceptable actions, error handling, and trade-offs (speed vs. accuracy, autonomy vs. confirmation).
